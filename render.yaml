@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: malvin-md
+    env: docker
+    region: Zimbabwe
+    plan: free
